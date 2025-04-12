@@ -1,5 +1,5 @@
 import streamlit as st
-from config import DEFAULT_SESSION_STATE, PAGE_TITLE, PAGE_ICON
+from config import PAGE_TITLE, PAGE_ICON
 
 
 def metadata():

@@ -3,6 +3,7 @@ from config import QUICK_LINKS
 
 
 def sidebar():
+    """Displays the sidebar with quick links."""
     st.sidebar.container(height=30, border=False)
 
     st.sidebar.subheader("Quick Links")
